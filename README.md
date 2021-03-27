@@ -2,7 +2,7 @@
 Module 3 Project for Data Analytics Ironhack Bootcamp
 
 <p align="center">
-  <img width="300" height="300" src="https://i.gifer.com/MUUt.gif">
+  <img width="300" height="300" src="https://media4.giphy.com/media/l3vRawYAnO8dUf1ra/giphy.gif">
 </p>
 
 ## **ABOUT**
