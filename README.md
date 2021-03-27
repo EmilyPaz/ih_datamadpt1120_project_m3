@@ -2,7 +2,7 @@
 Module 3 Project for Data Analytics Ironhack Bootcamp
 
 <p align="center">
-  <img width="300" height="300" src="https://media4.giphy.com/media/l3vRawYAnO8dUf1ra/giphy.gif">
+  <img width="500" height="300" src="https://media4.giphy.com/media/l3vRawYAnO8dUf1ra/giphy.gif">
 </p>
 
 ## **ABOUT**
@@ -25,8 +25,8 @@ My goal is to desing the correct ML model to have the minor root mean square err
 ```
 └── project
     ├── data
-    ├── submissions
     ├── notebooks
+    ├── submissions
     ├── .gitignore
     └── README.md
 ```
